@@ -107,7 +107,7 @@ create table newsletterConfig (
   titre varchar (50)
   );
 
-
+```
 
 
 
